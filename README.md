@@ -57,4 +57,4 @@ A more complex project combining front-end and back-end concepts.
   - `Add Level2 - Calculator Project`
   - `Add Level3 - Pizza Delivery Application`
 
-This ensures clear organization and professional presentation of internship work.
+ This ensures clear organization and professional presentation of internship work.

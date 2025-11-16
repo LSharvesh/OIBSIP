@@ -27,34 +27,3 @@ Projects introducing additional functionality, interactivity, and basic authenti
 
 2. **Tribute Page**  
    Webpage dedicated to a notable personality, demonstrating structured content and styling.
-
-3. **Basic To-Do Web App**  
-   Task management application with add, delete, and mark-as-done functionalities.
-
-4. **Login Authentication Web App**  
-   Simple login system implementing front-end validation and authentication concepts.
-
----
-
-## **Level 3 - Advanced Project**
-A more complex project combining front-end and back-end concepts.
-
-1. **Pizza Delivery Application**  
-   Full-stack web application for online pizza ordering, including menu selection, order placement, and basic order tracking.
-
----
-
-## **Repository Structure**
-
-
-
----
-
-## **Commit Guidelines**
-- Each project folder contains all necessary files (HTML, CSS, JS, and other assets).  
-- Use descriptive commit messages for each project upload, for example:
-  - `Add Level1 - Landing Page Project`
-  - `Add Level2 - Calculator Project`
-  - `Add Level3 - Pizza Delivery Application`
-
- This ensures clear organization and professional presentation of internship work.
